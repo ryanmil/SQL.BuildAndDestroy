@@ -1,0 +1,1 @@
+SELECT * FROM Users WHERE PostalCode IS NULL;
